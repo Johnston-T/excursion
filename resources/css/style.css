@@ -7,9 +7,14 @@ body {
     background-color: black;
 }
 
-h1,
+h1 {
+    color:#56c8ff;
+    font-size: 60px;
+  }
+
   h2 {
     color:aliceblue;
+    font-size: 50px;
   }
 
 p {
@@ -22,4 +27,13 @@ a {
 
 video {
     align-items: center;
+}
+
+#video {
+    padding-top: 18px;
+}
+
+#phone_img {
+    padding-top: 30px;
+    padding-bottom: 20px;
 }
