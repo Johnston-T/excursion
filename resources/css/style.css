@@ -1,7 +1,21 @@
 * {
     text-align:center;
+    
 }
 
 body {
     background-color: black;
+}
+
+h1,
+  h2 {
+    color:aliceblue;
+  }
+
+p {
+    color: darkgray;
+}
+
+a {
+    color:cadetblue;
 }
