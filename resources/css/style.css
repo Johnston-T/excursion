@@ -19,6 +19,7 @@ h1 {
 
 p {
     color: darkgray;
+    font-size: 25px;
 }
 
 a {
@@ -29,6 +30,10 @@ video {
     align-items: center;
 }
 
+footer {
+    text-align: right;
+}
+
 #video {
     padding-top: 18px;
 }
@@ -37,3 +42,4 @@ video {
     padding-top: 30px;
     padding-bottom: 20px;
 }
+
